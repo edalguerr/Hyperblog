@@ -1,0 +1,1 @@
+alert('el escript funciona')
