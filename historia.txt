@@ -8,4 +8,4 @@ Staging, que guardará temporalmente nuestros archivos (cuando ejecutemos
 un comando especial para eso) y nos permitirá, más adelante, guardar estos 
 cambios en el repositorio (también con un comando especial).
 
-Ciclo de vida o estados de los archivos en Git y github:
+Mañana será lunes
