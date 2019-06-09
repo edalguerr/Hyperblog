@@ -1,0 +1,9 @@
+Para iniciar un repositorio, o sea, activar el sistema de control de versiones 
+de Git en tu proyecto, solo debes ejecutar el comando git init.
+
+Este comando se encargará de dos cosas: primero, crear una carpeta 
+.git donde se guardará toda la base de datos con cambios atómicos de nuestro 
+proyecto; y segundo, crear un área en la memoria RAM, que conocemos como 
+Staging, que guardará temporalmente nuestros archivos (cuando ejecutemos 
+un comando especial para eso) y nos permitirá, más adelante, guardar estos 
+cambios en el repositorio (también con un comando especial).
