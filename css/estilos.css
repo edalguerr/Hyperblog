@@ -23,3 +23,13 @@ h5{
 
     font-size: 20px;
 }
+
+#cabecera{
+    font-size: 40;
+    font-weight: 600;
+    background-color: blueviolet;
+    color: #fff;
+    margin:0 -15px;
+    margin-top: -15px;
+    padding: 20px 15px;
+}
