@@ -1,4 +1,4 @@
-Para iniciar un repositorio, o sea, activar el sistema de control de versiones 
+﻿Para iniciar un repositorio, o sea, activar el sistema de control de versiones 
 de Git en tu proyecto, solo debes ejecutar el comando git init.
 
 Este comando se encargará de dos cosas: primero, crear una carpeta 
@@ -9,3 +9,5 @@ un comando especial para eso) y nos permitirá, más adelante, guardar estos
 cambios en el repositorio (también con un comando especial).
 
 Ciclo de vida o estados de los archivos en Git y github:
+
+junkio quiere hacer parte del team ASOGASMON
