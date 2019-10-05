@@ -10,4 +10,4 @@ cambios en el repositorio (también con un comando especial).
 
 Ciclo de vida o estados de los archivos en Git y github:
 
-junkio quiere hacer parte del team ASOGASMON
+junkio quiere hacer parte del team ASOGASMON, quiere aportar y recibir acciones
